@@ -1,5 +1,6 @@
 import React, { useEffect, useRef } from 'react';
 import { Button } from './ui/button';
+import { Badge } from './ui/badge';
 import { motion } from 'framer-motion';
 import { Download, ArrowDown, Code, Database, Zap } from 'lucide-react';
 
